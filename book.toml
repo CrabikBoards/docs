@@ -1,0 +1,16 @@
+[book]
+title = "Руководство для платы crabik"
+author = "kekcheburec (Самусевич Роман)"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+additional-css = ["style/book.css"]
+additional-js = ["style/book.js"]
+
+[output.linkcheck]
+follow-web-links = true
+warning-policy = "warn"
+
+[output.linkcheck.http-headers]
+'crates\.io' = ["Accept: text/html"]
