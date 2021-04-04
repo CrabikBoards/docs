@@ -22,4 +22,4 @@ mdbook serve
 
 Руководство распространяется под следующими лицензиями:
 - Примеры кода, содержащиеся в этом проекте, лицензированы в соответствии с условиями [MIT лицензии](https://opensource.org/licenses/MIT).
-- Текст руководства, содержащаяся в этом проекте, находится под лицензией [Creative Commons CC-BY-SA v4.0 лицензии](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+- Текст руководства, содержащийся в этом проекте, находится под лицензией [Creative Commons CC-BY-SA v4.0 лицензии](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
