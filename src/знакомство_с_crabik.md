@@ -22,4 +22,9 @@ Cхема распиновки платы:
 Для востановления работы внутреннего отладчика, запаяйте перемычку.
 Так же для меньшего потребления в режиме сна, рекомендуется отключать внешний отладчик.
 
+## Файлы дизайна
+- [Схема](https://crabik.ru/_assets/crabik-schematic-revB.pdf ':ignore :target=_blank')  
+- [Интерактивный BOM](https://crabik.ru/ibom.html)
+- [Файлы KiCad](https://github.com/CrabikBoards/hardware)
+
 [chip]: https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810
